@@ -1,1 +1,2 @@
-# Desafio-de-Projeto---Scrum
+Segue link do board Scrum realizado no Miro:
+https://miro.com/welcomeonboard/ZzU2cXA5akhPMWZUUG9KbHVDcW9xcXB5WE5aUjJ3OFRMNjF5aEsweG04TmJrRXZkbmYwRmdsSUlXeFltOFZvUHwzNDU4NzY0NTg3NDA5NTA0NTQ3fDI=?share_link_id=585708685008
